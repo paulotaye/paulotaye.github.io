@@ -1,2 +1,2 @@
 # paulotaye.github.io
-My Cybersecurity Lab Portfolio
+My Cybersecurity Portfolio
